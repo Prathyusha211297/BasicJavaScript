@@ -13,4 +13,9 @@ console.log(b===c); //strict equality operator
 console.log(a!=b); //not equal operator
 console.log(b!=d); // not equal operator
 console.log(b!==c)
+console.log(a>b); //greater than operator
+console.log(a<b); //less than operator
+console.log(a>=b); //greater than or equal to operator
+console.log(a<=b); //less than or equal to operator 
+
 
